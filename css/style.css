@@ -1,0 +1,191 @@
+body {
+    margin: 0;
+}
+
+/*search button*/
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover,
+.form-control-borderless:active,
+.form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+header .bnt-font {
+    font-size: 1.1rem;
+}
+
+header .bnt-font-field {
+    font-size: 0.8rem;
+}
+/*search button ends*/
+
+.tourstable {
+    background-color: rgb(85, 82, 82);
+
+}
+.tourtable a {
+    color: white;
+}
+
+.ticketlinks {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.maplinks {
+    font-weight: bold;
+}
+
+#tabletour {
+    color: white;
+}
+#mainTourBody {
+    margin-top: 3rem;
+}
+
+/* Bottom right text */
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.thumbnail {
+    position: relative;
+}
+#thumbnailTours {
+    position: relative;
+    margin-top: 1rem;
+}
+
+.caption {
+    position: absolute;
+    top: 22%;
+    left: 25%;
+    width: 100%;
+}
+
+.captionbottom {
+    position: absolute;
+    width: 100%;
+    bottom: 5%;
+    color: white;
+    font-size: 200%;
+    font-weight: bold;
+    font-variant-caps: small-caps;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.captionbottomleft {
+    position: absolute;
+    width: 100%;
+    color: white;
+    bottom: 0.5%;
+
+}
+
+.birthtable {
+    color: white;
+    width: 50%;
+}
+
+#tableUp {
+    z-index: 100;
+}
+
+
+/*css for About page*/
+span {
+    font-weight: bold;
+}
+
+.jumbotron {
+    margin-top: 3.5rem;
+    background: url('../images/joseph-pearson-411277-unsplash.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 5em inherit;
+}
+
+/*css for Music page*/
+.musicmain {
+    margin-top: 4rem;
+}
+
+.musicSection .col-lg-3 {
+    margin-bottom: 1.5rem;
+
+}
+
+.musicBody {
+    height: 100%;
+    background-image: url('../images/bobby-stevenson-670191-unsplash.jpg');
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+}
+
+.tourBody {
+    height: 750px;
+    background-image: url('../images/charlie-woodward-588175-unsplash.jpg');
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: center;
+}
+/* Bottom right text */
+.text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.thead-dark, .tourstable {
+    opacity: 0.8;
+}
+.text-center {
+    color:white;
+}
+/* adding inputForm */
+#inputForm {
+    color:white;
+}
+#textForm {
+    color:white;
+}
+#blocks {
+    display:inline;
+}
+#fontForMusic {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 2rem;
+}
+#forVideo {
+    font-family: 'Righteous', cursive;
+    font-size: 3rem;
+    margin-top: 3rem;
+}
+
+form {
+    color:white;
+    margin-bottom: 1rem;
+}
+#submitButton {
+    font-size: 1rem;
+}
+
+#indexMain {
+    margin-top:1rem;
+}
